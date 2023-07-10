@@ -16,6 +16,7 @@ const Header = () => {
   const { main } = menu;
 
   // states declaration
+  //this is a comments
 
   const [showMenu, setShowMenu] = useState(false);
   const [selectedLanguage, setSelectedLanguage] = useState('English');
